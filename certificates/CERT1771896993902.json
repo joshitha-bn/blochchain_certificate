@@ -1,0 +1,16 @@
+{
+  "recipient": {
+    "name": "vsvvrv"
+  },
+  "issuer": {
+    "name": "Blockchain Academy",
+    "url": "https://academy.example.com",
+    "publicKey": "ISSUER_PUBLIC_KEY"
+  },
+  "badge": {
+    "name": "fvref",
+    "description": "Completed fvref course"
+  },
+  "issuedOn": "2034",
+  "id": "CERT1771896993902"
+}
